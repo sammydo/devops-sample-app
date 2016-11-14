@@ -1,2 +1,2 @@
-# devops-resources
-Sample applications and scripts for the dev ops course. Supports the devops curriculum
+# devops-sample-app
+Sample application for the dev ops course. Supports the devops curriculum
